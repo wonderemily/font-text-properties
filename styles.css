@@ -23,7 +23,8 @@
 	--dk-gray: #222;
 
 	/* Font Stacks */
-	/* add the two font stacks here */
+	--heading-fonts: 'Seymour One', Impact, sans-serif;
+	--body-fonts: Lato, Arial, sans-serif;
 }
 
 body {
